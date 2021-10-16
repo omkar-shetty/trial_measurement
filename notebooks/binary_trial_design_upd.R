@@ -1,6 +1,6 @@
 #'---
 #'title: "Binary Trial Design"
-#'output: html_notebook
+#'output: github_document
 #'---
 #'  
 #'  Testing a few approaches to compare and contrast different methodologies for trials with a binary outcome (success/failure trials).
